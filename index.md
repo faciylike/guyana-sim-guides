@@ -69,3 +69,10 @@ layout: default
 　　最后一个小比喻：选择圭亚那的网络，就像选择这里的交通工具——你可以坐又快又新的小巴（好比Digicel），也可以选那辆看起来旧但一定能把你载到目的地的越野车（好比GTT）。没有绝对的好坏，只有合不合适你的旅程。
 
 　　带上护照，保持耐心，连接上这片土地的第一个字节，你的探险才算真正开始。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Guyana eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/guyana-data-plans)
